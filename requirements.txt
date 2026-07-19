@@ -1,7 +1,1 @@
-python-telegram-bot
-flask
-nest_asyncio
-pandas
-matplotlib
-mplfinance
-numpy
+python-telegram-bot==21.6
